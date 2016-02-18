@@ -1,0 +1,58 @@
+[{
+     "id": 1,
+     "teamName": "Knicks",
+     "City": "NY",
+     "players": [{
+          "name": "Carmelo Anthony",
+          "position": "Forward",
+          "number": 7
+     }, {
+          "name": "Arron Afflalo",
+          "position": "Guard",
+          "number": 4
+     },
+     {
+          "name": "Kristaps Porzingis",
+          "position": "Forward",
+          "number": 6
+     }],
+     "coaches": [{
+          "name": "Kurt Rambis",
+          "position": "Head Coach"
+     }, {
+           "name": "Roger Hinds",
+          "position": "Trainer"
+     }, {
+          "name": "Anthony Goenaga",
+          "position": "Assistant Trainer"
+     }]
+},
+{
+     "id": 2,
+     "teamName": "Jazz",
+     "City": "Utah",
+     "players": [{
+          "name": "Rudy Gobert",
+          "position": "Center",
+          "number": 27
+     }, {
+          "name": "Gordon Hayward",
+          "position": "Forward",
+          "number": 20
+     },
+     {
+          "name": "Rodney Hood",
+          "position": "Guard",
+          "number": 5
+     }],
+     "coaches": [{
+          "name": "Quin Snyder",
+          "position": "Head Coach"
+     }, {
+           "name": "Johnnie Bryant",
+          "position": "Assistant Coach"
+     }, {
+          "name": "Brad Jones",
+          "position": "Assistant Coach"
+     }]
+}]
